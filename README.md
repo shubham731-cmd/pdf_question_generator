@@ -46,8 +46,8 @@ python pdf_extractor.py path/to/input.pdf
 ```bash
 python question_generator.py
 ```
-This generates:
-1. AI-generated questions in output/questions.json
+  This generates:
+  1. AI-generated questions in output/questions.json
 
 ## Models Used
 1. Image Captioning: Salesforce/blip-image-captioning-base
