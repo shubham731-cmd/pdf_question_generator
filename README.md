@@ -23,7 +23,7 @@ pdf-question-generator/
 ├── .env # For environment variables (if needed)
 └── README.md
 ```
-.env file consist of unique API key/token, in this project I have used my own Hgging Face API token. You can use your own.
+.env file consist of unique API key/token, in this project I have used my own Hugging Face API token. You can use your own.
 
 ## Dependencies include:
 
