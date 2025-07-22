@@ -38,15 +38,15 @@ python pdf_extractor.py path/to/input.pdf
 ```
 This generates:
 
-i. Text + image data saved to output/extracted_content.json
-ii. All images saved to output/images/
+1. Text + image data saved to output/extracted_content.json
+2. All images saved to output/images/
 
-2. Generate AI Questions
+3. Generate AI Questions
 ```bash
 python question_generator.py
 ```
 This generates:
-i. AI-generated questions in output/questions.json
+1. AI-generated questions in output/questions.json
 
 ## Models Used
 1. Image Captioning: Salesforce/blip-image-captioning-base
