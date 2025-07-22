@@ -32,7 +32,7 @@ pdf-question-generator/
 - python-dotenv
 
 ## Usage
-1. Extract Content from PDF
+### Extract Content from PDF
 ```bash
 python pdf_extractor.py path/to/input.pdf
 ```
@@ -41,7 +41,7 @@ python pdf_extractor.py path/to/input.pdf
   1. Text + image data saved to output/extracted_content.json
   2. All images saved to output/images/
 
-2. Generate AI Questions
+### Generate AI Questions
 
 ```bash
 python question_generator.py
