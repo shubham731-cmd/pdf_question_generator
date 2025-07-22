@@ -12,7 +12,8 @@ This project extracts **text and images from a PDF file** and uses **AI models**
 
 ## Project Structure
 
-```pdf-question-generator/
+```bash
+pdf-question-generator/
 ├── pdf_extractor.py # Extracts text & images from PDF
 ├── question_generator.py # Uses AI to generate questions
 ├── output/
@@ -20,7 +21,8 @@ This project extracts **text and images from a PDF file** and uses **AI models**
 │ ├── images/
 │ └── questions.json
 ├── .env # For environment variables (if needed)
-└── README.md```
+└── README.md
+```
 
 ## Dependencies include:
 
