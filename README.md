@@ -24,6 +24,9 @@ pdf-question-generator/
 └── README.md
 ```
 .env file consist of unique API key/token, in this project I have used my own Hugging Face API token. You can use your own.
+```bash
+HF_API_TOKEN=your_unique_HF_API_TOKEN
+```
 
 ## Dependencies include:
 
