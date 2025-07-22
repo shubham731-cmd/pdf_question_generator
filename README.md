@@ -36,12 +36,13 @@ pdf-question-generator/
 ```bash
 python pdf_extractor.py path/to/input.pdf
 ```
-This generates:
+  This generates:
 
-1. Text + image data saved to output/extracted_content.json
-2. All images saved to output/images/
+  1. Text + image data saved to output/extracted_content.json
+  2. All images saved to output/images/
 
-3. Generate AI Questions
+2. Generate AI Questions
+
 ```bash
 python question_generator.py
 ```
