@@ -75,3 +75,6 @@ Example Output
 1. Add UI with Streamlit or Gradio
 2. PDF upload from browser
 3. Add support for higher-grade question templates
+
+
+### Feel free to fork this project, use it in educational apps, or expand it further!
