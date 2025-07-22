@@ -1,0 +1,661 @@
+[
+  {
+    "question": "Math question about: 1.Find the next figures in the figure pattern give...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 1,
+    "source_question": 1,
+    "images": [
+      "output/images\\page1_image1.jpeg",
+      "output/images\\page1_image2.png",
+      "output/images\\page1_image3.png",
+      "output/images\\page1_image4.png",
+      "output/images\\page1_image5.png",
+      "output/images\\page1_image6.png",
+      "output/images\\page1_image7.png",
+      "output/images\\page1_image8.png",
+      "output/images\\page1_image9.png",
+      "output/images\\page1_image10.png"
+    ]
+  },
+  {
+    "question": "Math question about: 2.Complete the number pattern. \n \n \n \n[A] \n \n[B]...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 1,
+    "source_question": 2,
+    "images": [
+      "output/images\\page1_image1.jpeg",
+      "output/images\\page1_image2.png",
+      "output/images\\page1_image3.png",
+      "output/images\\page1_image4.png",
+      "output/images\\page1_image5.png",
+      "output/images\\page1_image6.png",
+      "output/images\\page1_image7.png",
+      "output/images\\page1_image8.png",
+      "output/images\\page1_image9.png",
+      "output/images\\page1_image10.png"
+    ]
+  },
+  {
+    "question": "Math question about: 3.In the questions given below, the series with on...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 2,
+    "source_question": 1,
+    "images": [
+      "output/images\\page2_image1.jpeg",
+      "output/images\\page2_image2.png",
+      "output/images\\page2_image3.png",
+      "output/images\\page2_image4.png",
+      "output/images\\page2_image5.png",
+      "output/images\\page2_image6.jpeg",
+      "output/images\\page2_image7.png"
+    ]
+  },
+  {
+    "question": "Math question about: 4.Number of the groups of 9 paper clips (\n) shown ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 2,
+    "source_question": 2,
+    "images": [
+      "output/images\\page2_image1.jpeg",
+      "output/images\\page2_image2.png",
+      "output/images\\page2_image3.png",
+      "output/images\\page2_image4.png",
+      "output/images\\page2_image5.png",
+      "output/images\\page2_image6.jpeg",
+      "output/images\\page2_image7.png"
+    ]
+  },
+  {
+    "question": "Math question about: 5.How many bananas are kept outside the basket? \n ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 2,
+    "source_question": 3,
+    "images": [
+      "output/images\\page2_image1.jpeg",
+      "output/images\\page2_image2.png",
+      "output/images\\page2_image3.png",
+      "output/images\\page2_image4.png",
+      "output/images\\page2_image5.png",
+      "output/images\\page2_image6.jpeg",
+      "output/images\\page2_image7.png"
+    ]
+  },
+  {
+    "question": "Math question about: 6.A programme of children ended at the time shown ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 3,
+    "source_question": 1,
+    "images": [
+      "output/images\\page3_image1.jpeg",
+      "output/images\\page3_image2.png"
+    ]
+  },
+  {
+    "question": "Math question about: 7.Suresh had 112 bookmarks. He gives some bookmark...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 3,
+    "source_question": 2,
+    "images": [
+      "output/images\\page3_image1.jpeg",
+      "output/images\\page3_image2.png"
+    ]
+  },
+  {
+    "question": "Math question about: 8.Count and write the amount of money. \n \n \n[A] Rs...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 4,
+    "source_question": 1,
+    "images": [
+      "output/images\\page4_image1.jpeg",
+      "output/images\\page4_image2.jpeg",
+      "output/images\\page4_image3.png",
+      "output/images\\page4_image4.png",
+      "output/images\\page4_image5.png"
+    ]
+  },
+  {
+    "question": "Math question about: 9.Six cats are numbered as follows: \n \n \n \nWhich c...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 4,
+    "source_question": 2,
+    "images": [
+      "output/images\\page4_image1.jpeg",
+      "output/images\\page4_image2.jpeg",
+      "output/images\\page4_image3.png",
+      "output/images\\page4_image4.png",
+      "output/images\\page4_image5.png"
+    ]
+  },
+  {
+    "question": "Math question about: 10.Sonia bought 45 candies. She gave 22 cookies to...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 5,
+    "source_question": 1,
+    "images": [
+      "output/images\\page5_image1.jpeg",
+      "output/images\\page5_image2.png",
+      "output/images\\page5_image3.png",
+      "output/images\\page5_image4.png",
+      "output/images\\page5_image5.png"
+    ]
+  },
+  {
+    "question": "Math question about: 11.Which of the following is greatest? \n \n \nAns [D...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 5,
+    "source_question": 2,
+    "images": [
+      "output/images\\page5_image1.jpeg",
+      "output/images\\page5_image2.png",
+      "output/images\\page5_image3.png",
+      "output/images\\page5_image4.png",
+      "output/images\\page5_image5.png"
+    ]
+  },
+  {
+    "question": "Math question about: 12.Write \u2018+\u2019 or \u2018\u2013\u2019 in each \n to complete the numb...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 5,
+    "source_question": 3,
+    "images": [
+      "output/images\\page5_image1.jpeg",
+      "output/images\\page5_image2.png",
+      "output/images\\page5_image3.png",
+      "output/images\\page5_image4.png",
+      "output/images\\page5_image5.png"
+    ]
+  },
+  {
+    "question": "Math question about: 13.\n \n \n \n \nObject _______________ is the heaviest...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 6,
+    "source_question": 1,
+    "images": [
+      "output/images\\page6_image1.jpeg",
+      "output/images\\page6_image2.png",
+      "output/images\\page6_image3.png"
+    ]
+  },
+  {
+    "question": "Math question about: 14.The length of BD is 1 cm less than the total le...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 6,
+    "source_question": 2,
+    "images": [
+      "output/images\\page6_image1.jpeg",
+      "output/images\\page6_image2.png",
+      "output/images\\page6_image3.png"
+    ]
+  },
+  {
+    "question": "Math question about: 15.The length of CD is twice that of BC. What is t...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 6,
+    "source_question": 3,
+    "images": [
+      "output/images\\page6_image1.jpeg",
+      "output/images\\page6_image2.png",
+      "output/images\\page6_image3.png"
+    ]
+  },
+  {
+    "question": "Math question about: 16.Which of the following clocks shows 30 minutes ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 7,
+    "source_question": 1,
+    "images": [
+      "output/images\\page7_image1.jpeg"
+    ]
+  },
+  {
+    "question": "Math question about: 17.Sent gold High School has 453 students. It has ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 7,
+    "source_question": 2,
+    "images": [
+      "output/images\\page7_image1.jpeg"
+    ]
+  },
+  {
+    "question": "Math question about: 18.Tanshu spent Rs 35.70 on a ball and Rs 50.30 on...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 8,
+    "source_question": 1,
+    "images": [
+      "output/images\\page8_image1.jpeg",
+      "output/images\\page8_image2.jpeg",
+      "output/images\\page8_image3.jpeg",
+      "output/images\\page8_image4.jpeg",
+      "output/images\\page8_image5.jpeg",
+      "output/images\\page8_image6.png",
+      "output/images\\page8_image7.png",
+      "output/images\\page8_image8.png",
+      "output/images\\page8_image9.png"
+    ]
+  },
+  {
+    "question": "Math question about: 19.Which tree has apples more than 6 but less than...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 8,
+    "source_question": 2,
+    "images": [
+      "output/images\\page8_image1.jpeg",
+      "output/images\\page8_image2.jpeg",
+      "output/images\\page8_image3.jpeg",
+      "output/images\\page8_image4.jpeg",
+      "output/images\\page8_image5.jpeg",
+      "output/images\\page8_image6.png",
+      "output/images\\page8_image7.png",
+      "output/images\\page8_image8.png",
+      "output/images\\page8_image9.png"
+    ]
+  },
+  {
+    "question": "Math question about: 20.Which abacus shows 15 \u2013 13 = 13? \n \n[A] \n \n[B] ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 8,
+    "source_question": 3,
+    "images": [
+      "output/images\\page8_image1.jpeg",
+      "output/images\\page8_image2.jpeg",
+      "output/images\\page8_image3.jpeg",
+      "output/images\\page8_image4.jpeg",
+      "output/images\\page8_image5.jpeg",
+      "output/images\\page8_image6.png",
+      "output/images\\page8_image7.png",
+      "output/images\\page8_image8.png",
+      "output/images\\page8_image9.png"
+    ]
+  },
+  {
+    "question": "Math question about: 21.Which of the following is smallest? \n \n \nAns [C...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 9,
+    "source_question": 1,
+    "images": [
+      "output/images\\page9_image1.jpeg",
+      "output/images\\page9_image2.png",
+      "output/images\\page9_image3.png",
+      "output/images\\page9_image4.png",
+      "output/images\\page9_image5.png",
+      "output/images\\page9_image6.png"
+    ]
+  },
+  {
+    "question": "Math question about: 22.6 hundreds 3 tens 2 ones \u2013 3 hundreds 2 tens 6 ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 9,
+    "source_question": 2,
+    "images": [
+      "output/images\\page9_image1.jpeg",
+      "output/images\\page9_image2.png",
+      "output/images\\page9_image3.png",
+      "output/images\\page9_image4.png",
+      "output/images\\page9_image5.png",
+      "output/images\\page9_image6.png"
+    ]
+  },
+  {
+    "question": "Math question about: 23.\n \n   \n \n \nWhat does  \n  stand for ? \n \n[A] 7 \n...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 9,
+    "source_question": 3,
+    "images": [
+      "output/images\\page9_image1.jpeg",
+      "output/images\\page9_image2.png",
+      "output/images\\page9_image3.png",
+      "output/images\\page9_image4.png",
+      "output/images\\page9_image5.png",
+      "output/images\\page9_image6.png"
+    ]
+  },
+  {
+    "question": "Math question about: 24.A number bond is shown below. \n \nWhat is the va...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 9,
+    "source_question": 4,
+    "images": [
+      "output/images\\page9_image1.jpeg",
+      "output/images\\page9_image2.png",
+      "output/images\\page9_image3.png",
+      "output/images\\page9_image4.png",
+      "output/images\\page9_image5.png",
+      "output/images\\page9_image6.png"
+    ]
+  },
+  {
+    "question": "Math question about: 25.Tanya has following two pencils. \n \n \n \n \nFind ...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 10,
+    "source_question": 1,
+    "images": [
+      "output/images\\page10_image1.jpeg",
+      "output/images\\page10_image2.png",
+      "output/images\\page10_image3.png",
+      "output/images\\page10_image4.png"
+    ]
+  },
+  {
+    "question": "Math question about: 26.There were 298 hens and cows on a farm. \n \nTher...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 10,
+    "source_question": 2,
+    "images": [
+      "output/images\\page10_image1.jpeg",
+      "output/images\\page10_image2.png",
+      "output/images\\page10_image3.png",
+      "output/images\\page10_image4.png"
+    ]
+  },
+  {
+    "question": "Math question about: 27.Write the correct time for the clock shown belo...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 10,
+    "source_question": 3,
+    "images": [
+      "output/images\\page10_image1.jpeg",
+      "output/images\\page10_image2.png",
+      "output/images\\page10_image3.png",
+      "output/images\\page10_image4.png"
+    ]
+  },
+  {
+    "question": "Math question about: 28.Sumit has following flowers and balloons. \n \n \n...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 11,
+    "source_question": 1,
+    "images": [
+      "output/images\\page11_image1.jpeg",
+      "output/images\\page11_image2.png",
+      "output/images\\page11_image3.png",
+      "output/images\\page11_image4.jpeg"
+    ]
+  },
+  {
+    "question": "Math question about: 29.A bag of rice weighs 3 kg. How much do 6 bags o...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 11,
+    "source_question": 2,
+    "images": [
+      "output/images\\page11_image1.jpeg",
+      "output/images\\page11_image2.png",
+      "output/images\\page11_image3.png",
+      "output/images\\page11_image4.jpeg"
+    ]
+  },
+  {
+    "question": "Math question about: 30.If only all Saturdays and Sundays are holidays,...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 11,
+    "source_question": 3,
+    "images": [
+      "output/images\\page11_image1.jpeg",
+      "output/images\\page11_image2.png",
+      "output/images\\page11_image3.png",
+      "output/images\\page11_image4.jpeg"
+    ]
+  },
+  {
+    "question": "Math question about: 31.How much do the counters add up to? \n \n \n[A] 25...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 12,
+    "source_question": 1,
+    "images": [
+      "output/images\\page12_image1.jpeg",
+      "output/images\\page12_image2.png"
+    ]
+  },
+  {
+    "question": "Math question about: 32.The packet of rice has a mass of ______________...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 12,
+    "source_question": 2,
+    "images": [
+      "output/images\\page12_image1.jpeg",
+      "output/images\\page12_image2.png"
+    ]
+  },
+  {
+    "question": "Math question about: 33.Fill in the blank:  \n \nThe book is ____________...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 13,
+    "source_question": 1,
+    "images": [
+      "output/images\\page13_image1.jpeg",
+      "output/images\\page13_image2.png",
+      "output/images\\page13_image3.png"
+    ]
+  },
+  {
+    "question": "Math question about: 34.Which of the following is the CORRECT way of wr...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 13,
+    "source_question": 2,
+    "images": [
+      "output/images\\page13_image1.jpeg",
+      "output/images\\page13_image2.png",
+      "output/images\\page13_image3.png"
+    ]
+  },
+  {
+    "question": "Math question about: 35.Tonu gave Rs 50 to buy this ball. How much mone...",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "answer": "C",
+    "source_page": 13,
+    "source_question": 3,
+    "images": [
+      "output/images\\page13_image1.jpeg",
+      "output/images\\page13_image2.png",
+      "output/images\\page13_image3.png"
+    ]
+  }
+]
